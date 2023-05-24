@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{135595CD-FE14-4D2A-B4B4-333DDF289DAF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ProjectAkhir.My.MyApplication</StartupObject>
+    <RootNamespace>ProjectAkhir</RootNamespace>
+    <AssemblyName>ProjectAkhir</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ProjectAkhir.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ProjectAkhir.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI, Version=1.9.0.1, Culture=neutral, PublicKeyToken=ad275b4be6718d4b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="mysql.data">
+      <HintPath>..\..\mysql-connector-net-6.6.4-noinstall\v4\mysql.data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Catatan.Designer.vb">
+      <DependentUpon>Catatan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Catatan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataDokter.Designer.vb">
+      <DependentUpon>DataDokter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DataDokter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetailDokter.Designer.vb">
+      <DependentUpon>DetailDokter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DetailDokter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="detailPengajuan.Designer.vb">
+      <DependentUpon>detailPengajuan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="detailPengajuan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.vb">
+      <DependentUpon>Home.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JanjiTemu.Designer.vb">
+      <DependentUpon>JanjiTemu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="JanjiTemu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LihatCatatan.Designer.vb">
+      <DependentUpon>LihatCatatan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LihatCatatan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="regis.Designer.vb">
+      <DependentUpon>regis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="regis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPasien.Designer.vb">
+      <DependentUpon>MenuPasien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPasien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HapusJadwal.Designer.vb">
+      <DependentUpon>HapusJadwal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HapusJadwal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JanjiTemuPasien.Designer.vb">
+      <DependentUpon>JanjiTemuPasien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="JanjiTemuPasien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdmin.Designer.vb">
+      <DependentUpon>MenuAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LihatJadwal.Designer.vb">
+      <DependentUpon>LihatJadwal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LihatJadwal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modul.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="TambahCatatan.Designer.vb">
+      <DependentUpon>TambahCatatan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TambahCatatan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TambahJadwal.Designer.vb">
+      <DependentUpon>TambahJadwal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TambahJadwal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UbahJadwal.Designer.vb">
+      <DependentUpon>UbahJadwal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UbahJadwal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Catatan.resx">
+      <DependentUpon>Catatan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataDokter.resx">
+      <DependentUpon>DataDokter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetailDokter.resx">
+      <DependentUpon>DetailDokter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="detailPengajuan.resx">
+      <DependentUpon>detailPengajuan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JanjiTemu.resx">
+      <DependentUpon>JanjiTemu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LihatCatatan.resx">
+      <DependentUpon>LihatCatatan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="regis.resx">
+      <DependentUpon>regis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPasien.resx">
+      <DependentUpon>MenuPasien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HapusJadwal.resx">
+      <DependentUpon>HapusJadwal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JanjiTemuPasien.resx">
+      <DependentUpon>JanjiTemuPasien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdmin.resx">
+      <DependentUpon>MenuAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LihatJadwal.resx">
+      <DependentUpon>LihatJadwal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TambahCatatan.resx">
+      <DependentUpon>TambahCatatan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TambahJadwal.resx">
+      <DependentUpon>TambahJadwal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UbahJadwal.resx">
+      <DependentUpon>UbahJadwal.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\r.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PICTURE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HI.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PPP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\detail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hapus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\janjianda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kelolajanji.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buatjanji.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\catatanlihat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jadwal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ikhwan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\harlin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aldy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\viona.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keluarr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\catatan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tambah.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ubah.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tambahdokter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\biodokter.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
