@@ -1,0 +1,197 @@
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.exe.config
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.exe
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.pdb
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.xml
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.AssemblyReference.cache
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.SuggestedBindingRedirects.cache
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Resources.resources
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.GenerateResource.cache
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.CoreCompileInputs.cache
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.exe
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.xml
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.pdb
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.MenuAdmin.resources
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.TambahJadwal.resources
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\bin\Debug\mysql.data.dll
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.CopyComplete
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.UbahJadwal.resources
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.HapusJadwal.resources
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.JanjiTemu.resources
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.LihatJadwal.resources
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.exe.config
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.exe
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.pdb
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.xml
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.AssemblyReference.cache
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.SuggestedBindingRedirects.cache
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Login.resources
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Form10.resources
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.MenuPasien.resources
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Regis.resources
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Form3.resources
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Form4.resources
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Form5.resources
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Form6.resources
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.HapusJadwal.resources
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.JanjiTemu.resources
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.JanjiTemuPasien.resources
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.MenuAdmin.resources
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.LihatJadwal.resources
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Form9.resources
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Resources.resources
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.TambahJadwal.resources
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.UbahJadwal.resources
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.GenerateResource.cache
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.CoreCompileInputs.cache
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.CopyComplete
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.exe
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.xml
+C:\PA\VISUAL\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.pdb
+D:\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.exe.config
+D:\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.exe
+D:\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.pdb
+D:\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.xml
+D:\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.AssemblyReference.cache
+D:\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.SuggestedBindingRedirects.cache
+D:\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Login.resources
+D:\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.MenuPasien.resources
+D:\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Regis.resources
+D:\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.HapusJadwal.resources
+D:\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.JanjiTemu.resources
+D:\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.JanjiTemuPasien.resources
+D:\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.MenuAdmin.resources
+D:\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.LihatJadwal.resources
+D:\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Resources.resources
+D:\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.TambahJadwal.resources
+D:\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.UbahJadwal.resources
+D:\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.GenerateResource.cache
+D:\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.CoreCompileInputs.cache
+D:\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.CopyComplete
+D:\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.exe
+D:\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.xml
+D:\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.pdb
+D:\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.detailPengajuan.resources
+D:\al\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.AssemblyReference.cache
+D:\al\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.SuggestedBindingRedirects.cache
+D:\al\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.detailPengajuan.resources
+D:\al\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Login.resources
+D:\al\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.MenuPasien.resources
+D:\al\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.HapusJadwal.resources
+D:\al\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.JanjiTemu.resources
+D:\al\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.JanjiTemuPasien.resources
+D:\al\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.MenuAdmin.resources
+D:\al\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.LihatJadwal.resources
+D:\al\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Resources.resources
+D:\al\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.TambahJadwal.resources
+D:\al\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.UbahJadwal.resources
+D:\al\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.GenerateResource.cache
+D:\al\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.CoreCompileInputs.cache
+D:\al\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.exe
+D:\al\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.xml
+D:\al\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.pdb
+D:\al\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.exe.config
+D:\al\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.exe
+D:\al\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.pdb
+D:\al\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.xml
+D:\al\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.CopyComplete
+D:\al\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.regis.resources
+D:\al\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.LihatCatatan.resources
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.detailPengajuan.resources
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.LihatCatatan.resources
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.regis.resources
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Login.resources
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.MenuPasien.resources
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.JanjiTemuPasien.resources
+D:\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.LihatCatatan.resources
+D:\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Home.resources
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.exe.config
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.exe
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.pdb
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.xml
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.AssemblyReference.cache
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.SuggestedBindingRedirects.cache
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.detailPengajuan.resources
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Home.resources
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.LihatCatatan.resources
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.regis.resources
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Login.resources
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.MenuPasien.resources
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.HapusJadwal.resources
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.JanjiTemu.resources
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.JanjiTemuPasien.resources
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.MenuAdmin.resources
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.LihatJadwal.resources
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Resources.resources
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.TambahJadwal.resources
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.UbahJadwal.resources
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.GenerateResource.cache
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.CoreCompileInputs.cache
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.CopyComplete
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.exe
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.xml
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.pdb
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.TambahCatatan.resources
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Home.resources
+D:\Pemrograman Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.TambahCatatan.resources
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.DataDokter.resources
+C:\Code\Visual\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.DetailDokter.resources
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.exe.config
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.exe
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.pdb
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\bin\Debug\ProjectAkhir.xml
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.AssemblyReference.cache
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.DataDokter.resources
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.DetailDokter.resources
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.detailPengajuan.resources
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Home.resources
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.LihatCatatan.resources
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.regis.resources
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Login.resources
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.MenuPasien.resources
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.HapusJadwal.resources
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.JanjiTemu.resources
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.JanjiTemuPasien.resources
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.MenuAdmin.resources
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.LihatJadwal.resources
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Resources.resources
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.TambahCatatan.resources
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.TambahJadwal.resources
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.UbahJadwal.resources
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.GenerateResource.cache
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.CopyComplete
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.exe
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.xml
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.pdb
+C:\Users\Acer\Documents\ProjectAkhir\ProjectAkhir\obj\Debug\ProjectAkhir.Catatan.resources
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\bin\Debug\ProjectAkhir.exe.config
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\bin\Debug\ProjectAkhir.exe
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\bin\Debug\ProjectAkhir.pdb
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\bin\Debug\ProjectAkhir.xml
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.Catatan.resources
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.DataDokter.resources
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.DetailDokter.resources
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.detailPengajuan.resources
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.Home.resources
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.JanjiTemu.resources
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.LihatCatatan.resources
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.regis.resources
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.Login.resources
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.MenuPasien.resources
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.HapusJadwal.resources
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.JanjiTemuPasien.resources
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.MenuAdmin.resources
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.LihatJadwal.resources
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.Resources.resources
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.TambahCatatan.resources
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.TambahJadwal.resources
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.UbahJadwal.resources
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.GenerateResource.cache
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.vbproj.CopyComplete
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.exe
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.xml
+C:\Users\Acer\Desktop\ProjectAkhirFix\ProjectAkhir\obj\Debug\ProjectAkhir.pdb
